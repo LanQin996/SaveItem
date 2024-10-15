@@ -1,0 +1,9 @@
+name: SaveItem
+version: '${version}'
+main: com.lanqin.saveitem.Main
+prefix: §eSaveItem§r
+authors: [LanQin_]
+commands:
+  saveitem:
+    aliases: [si]
+    permission: saveitem.admin

@@ -1,0 +1,12 @@
+# 数据库配置
+mysql:
+  # 是否使用mysql false为使用yml存储 true为mysql存储
+  enable: false
+  # 数据库版本8以上请填写 com.mysql.cj.jdbc.Driver
+  drive: "com.mysql.jdbc.Driver"
+  host: "localhost"
+  port: 3306
+  database: "saveitem"
+  username: "root"
+  password: "123456"
+
